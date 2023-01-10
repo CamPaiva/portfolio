@@ -2,7 +2,7 @@
 
 This is a selection of some of the data science projects I have made independently to showcase what I can do. Because I often use interactive graphs which don't display well on GitHub, for Python projects the links are directly to the Google Colab files and for the single R project the link downloads the html file written in R Markdown.
 
-## Project 1: [Netflix Data](https://github.com/CamPaiva/netflix-data/raw/main/Paiva_R_Netflix_2ndDeliveryMarkdown.html)
+## Project 1: [Netflix Data](https://drive.google.com/uc?export=download&id=1Lh2XwVI1APUyH2GrnYXiYn5S0jifPGhI)
 This project was undertaken for the R for Data Science Advanced course at [TechAcademy](https://www.tech-academy.io/einblicke/) in 2022/2023. We were supposed to follow a [Project Guide](https://github.com/CamPaiva/netflix-data/raw/main/Project%20Guide%20-%20Leitfaden.pdf) indicating the tasks we had to accomplish. The project used two datasets: a [general one from from Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows) and one with one's personal data from Netflix, which anyone can request. The first portion, shown here, is dedicated to exploratory data analysis and visualization. 
 
 ## Project 2: [Sight&Sound's Greatest Films of All Time](https://colab.research.google.com/drive/1KljzCTf7Mo0_7No1yGuoiib_ZEarpV3L?usp=sharing)
